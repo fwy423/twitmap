@@ -40,7 +40,7 @@ scipy==0.18.1
 semantic-version==2.5.0
 six==1.10.0
 tabulate==0.7.5
-tensorflow==0.12.1
+tensorflow==2.5.0
 termcolor==1.1.0
 Theano==0.8.2
 tweepy==3.5.0
